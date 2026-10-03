@@ -1,16 +1,45 @@
-## Hi there 👋
+# What's up buddy, I'm Orlando 🌊
 
-<!--
-**Orlandillo31/Orlandillo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Teleinformatics Engineering student from the Pacific coast of Mexico.**
 
-Here are some ideas to get you started:
+I enjoy building software, understanding how systems work, and learning by turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on **software development, operating systems, databases, networking and embedded systems**.
+
+---
+
+## 🛠 Tech I've worked with
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,nodejs,express,mysql,mongodb,git,github,linux,docker,arduino)](https://skillicons.dev)
+
+---
+
+## 🌴 Featured Projects
+
+### 🏨 Villas Cangrejo
+
+Full-stack hotel reservation and management web application.
+
+Built with `JavaScript` · `Node.js` · `Express` · `MongoDB`
+
+Includes customer accounts, reservations, admin tools, guest reviews and accounting features.
+
+### 🌐 Hotel Costa Alegre
+
+Responsive hotel website developed as a university frontend project.
+
+Built with `HTML` · `CSS` · `JavaScript`
+
+Includes responsive navigation, animations, room sections, image gallery and form validation.
+
+---
+
+## 📍 Currently
+
+Learning more about:
+
+`Java` · `Linux` · `Docker` · `Operating Systems` · `Databases` · `Microcontrollers`
+
+---
+
+> *Building, learning and figuring things out — one project at a time. 🌊*
