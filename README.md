@@ -8,15 +8,15 @@ Currently focused on **software development, operating systems, databases, netwo
 
 ---
 
-## 🛠 Tech I've worked with
+##  Tech I've worked with
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,nodejs,mongodb,git,linux,docker,arduino)](https://skillicons.dev)
 
 ---
 
-## 🌴 Featured Projects
+## Featured Projects
 
-### 🏨 Villas Cangrejo
+### Villas Cangrejo
 
 Full-stack hotel reservation and management web application.
 
