@@ -8,7 +8,7 @@ Currently focused on **software development, operating systems, databases, netwo
 
 ---
 
-##  Tech I've worked with
+## l Tech I've worked with
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,nodejs,mongodb,git,linux,docker,arduino)](https://skillicons.dev)
 
@@ -24,7 +24,7 @@ Built with `JavaScript` · `Node.js` · `Express` · `MongoDB`
 
 Includes customer accounts, reservations, admin tools, guest reviews and accounting features.
 
-### 🌐 Hotel Costa Alegre
+### Hotel Costa Alegre
 
 Responsive hotel website developed as a university frontend project.
 
@@ -34,7 +34,7 @@ Includes responsive navigation, animations, room sections, image gallery and for
 
 ---
 
-## 📍 Currently
+##  Currently
 
 Learning more about:
 
