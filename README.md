@@ -1,66 +1,52 @@
 ```asm
-; ==============================================================
-;  orlando.asm  ·  perfil de Orlando
-;  Ingeniería en Teleinformática · costa del Pacífico, México
-;  "Lo construyo, lo rompo, y entiendo por qué se rompió."
-; ==============================================================
+.include "m328Pdef.inc"
 
-.include "m328Pdef.inc"          ; base: sistemas embebidos + web + redes
+; Orlando Jared Martínez García
+; Ingeniería en Teleinformática · costa del Pacífico, México
+; Lo construyo, lo rompo, y entiendo por qué se rompió.
 ```
 
-## CONFIG:
-
-Lo que tengo cargado en la memoria.
+### CONFIG:
 
 ```asm
-.equ  LANG_MAIN    = "Java"
-.equ  LANG_WEB     = "JavaScript · HTML · CSS"
-.equ  LANG_LOW     = "AVR Assembly"        ; sí, a mano, sin abstracciones
-.equ  BACKEND      = "Node.js · Express"
-.equ  DATA         = "MongoDB · MySQL"
-.equ  SYSTEMS      = "Linux · Git · Docker"
+.equ  LOW_LEVEL = "AVR Assembly · C/C++ · ATmega328p"
+.equ  BACKEND   = "Java · Node.js · Express"
+.equ  FRONTEND  = "JavaScript · HTML · CSS"
+.equ  DATA      = "MongoDB · MySQL"
+.equ  SYSTEMS   = "Linux · Git · Docker"
 ```
 
-## INICIO:
-
-Proyectos. Cada uno es una subrutina que se ejecuta en el orden de abajo.
+### INICIO:
 
 ```asm
 INICIO:
-    RCALL  VILLAS_CANGREJO       ; reservaciones full-stack, cuentas, panel admin
-    RCALL  HOTEL_COSTA_ALEGRE    ; sitio responsivo con galería y validación de formularios
-    RCALL  HOLA_ORLANDO          ; scroller de 7 segmentos en ATmega328p
-    RCALL  QR_ASISTENCIA         ; registro de asistencia por código QR (Java)
-    RJMP   INICIO                ; el ciclo nunca termina
+    RCALL  VILLAS_CANGREJO
+    RCALL  HOTEL_COSTA_ALEGRE
+    RCALL  HOLA_ORLANDO
+    RCALL  QR_ASISTENCIA
+    RJMP   INICIO
 ```
 
 | Rutina | Stack | Repo |
 |---|---|---|
-| VILLAS_CANGREJO | JavaScript · Node · Express · MongoDB | [link](#) |
-| HOTEL_COSTA_ALEGRE | HTML · CSS · JavaScript | [link](#) |
-| HOLA_ORLANDO | AVR Assembly · ATmega328p | [link](#) |
-| QR_ASISTENCIA | Java | [link](#) |
+| `VILLAS_CANGREJO` | JavaScript · Node · Express · MongoDB | [ver](#) |
+| `HOTEL_COSTA_ALEGRE` | HTML · CSS · JavaScript | [ver](#) |
+| `HOLA_ORLANDO` | AVR Assembly · ATmega328p | [ver](#) |
+| `QR_ASISTENCIA` | Java | [ver](#) |
 
-## RETARDO:
-
-Lo que todavía estoy en el ciclo de aprender. Espera activa, pero con propósito.
+### RETARDO:
 
 ```asm
 RETARDO:
-    ; Java · Linux · Docker · Sistemas operativos · Bases de datos · Microcontroladores
-    RET
+    ; Sistemas operativos · Redes inalámbricas · Docker · Bases de datos
+    RET                          ; espera activa, pero con propósito
 ```
 
-## FIN:
+### FIN:
 
 ```asm
 FIN:
-    ; Contacto
     ;   LinkedIn → link
-    ;   Correo   → tu@correo.com
+    ;   Correo   → orlandojamaga@outlook.com
     RET
-```
-
-```asm
-; fin del programa. hecho a mano, un ciclo a la vez.
 ```
