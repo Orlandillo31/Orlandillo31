@@ -10,10 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="./stack.svg" alt="Stack" width="78%">
-</p>
-
 ---
 
 ## INICIO:
