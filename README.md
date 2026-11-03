@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./display.svg" alt="HOLA ORLANDO" width="100%">
+</p>
+
 ```asm
 .include "m328Pdef.inc"
 
